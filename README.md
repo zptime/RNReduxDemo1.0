@@ -1,3 +1,5 @@
+Redux实例V1.0版
+
 说明：这是简单的 react native + redux + react-navigation 的实例
 
 1.redux for react native
