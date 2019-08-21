@@ -1,4 +1,3 @@
-<!--
 说明：这是简单的 react native + redux + react-navigation 的实例
 
 1.redux for react native
@@ -24,4 +23,4 @@
     https://www.reactnavigation.org.cn/docs/guide-intro
     https://juejin.im/post/5afaf2db518825673954e44d
     https://juejin.im/entry/5b30543fe51d4558dd6990cc
--->
+
